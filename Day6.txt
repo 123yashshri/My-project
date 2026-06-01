@@ -1,0 +1,17 @@
+**collapse component**
+collapse with link means provide id in link and in button target id with link.
+
+**model component**
+model provide warning or confirmatory consent to user who are accessing the website.
+
+**navbar component**
+navbar is the most importent component for creation of any website. using navbar you can navigate anywhere in website using navlinks. it is always present at top of website. any website always start with navbar.
+
+**offcanvas component**
+Offcanvas is a sidebar component that can be toggled via JavaScript to appear from the left, right, top, or bottom edge of the viewport. Buttons or anchors are used as triggers that are attached to specific elements you toggle, and data attributes are used to invoke our JavaScript.
+
+**progress bar component**
+it is used to show skills in our portfolio pages. or to show statistic of any product.
+
+for animated progress bar class is given below
+progress-bar progress-bar-striped progress-bar-animated bg-danger
