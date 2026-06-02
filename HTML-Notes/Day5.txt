@@ -1,0 +1,46 @@
+***what is semantic elements in HTML***
+semantic elements are the html5 tags, use for special purpose. that define or justify its meaning on its own.
+while <div> and <span> are non-semantic elements.
+
+**structural semantic elements**
+<header>
+<nav>
+<aside>
+<main>
+<section>
+<article>
+<footer>
+
+**text/content semantic elements**
+<figure>
+<figcaption>
+<blockquote>
+<cite>
+<abbr>
+<address>
+<time>
+<mark>
+<dfn>
+<details> & <summary>
+<data>
+<meter>
+<progress>
+
+**table semantic elements**
+<caption>
+<thead>
+<tbody>
+<tr> <td> <th> <table>
+
+**form semantic**
+<label>
+<legend>
+<output>
+
+**media semantics elements**
+<audio>
+<video>
+<img>
+<source>
+<picture>
+<iframe>

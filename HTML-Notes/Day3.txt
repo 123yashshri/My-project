@@ -1,0 +1,39 @@
+form:- form is a type of input that takes user information and stored in backend.
+
+below are the input fields that can be used to take user data/input.
+**text**
+**password**
+**email**
+**number**
+**tel**
+**URL**
+**search**
+**date**
+**time**
+**datetime-local**
+**month**
+**week**
+**radio**
+**checkbox**
+**file upload**
+**range**
+**color**
+**hidden**
+**submit**
+**reset**
+
+***input important attributes***
+name:- it specify name
+placeholder:- it provides hint of what to be filled inside input.
+required:- it force the user to fill all the fields in form where required is applied.
+readonly:- it provides only readable value
+disabled:- it disabled the input field that will be not in used.
+value:- it display value in input field that matches user input.
+maxlength:- it defined a value range that can be used inside the form.
+
+***form elements (not input)***
+**textarea**
+**select**
+**label**
+**fieldset**
+**legend**

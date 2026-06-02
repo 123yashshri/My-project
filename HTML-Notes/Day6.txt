@@ -1,0 +1,47 @@
+**marquee tag**
+marquee tag moves text, image, content in given direction without need of css animation and advanced js.
+
+**marquee direction**
+left
+right
+up
+down
+
+**marquee tag behaviour**
+1. scroll:- contineous moves, iska text disapper hoga.
+2. slide:- ek bar chalke ruk jayega 
+3. alternate:- idhar udhar bounce karta hai. iska text disapper nahi hoga.
+
+**speed control**
+scrollamount="10"   // fast move
+scrollamount="02"   // slow move
+
+**scroll delay**
+scrolldelay="200"
+
+**loop**
+loop="3"
+loop="infinite"
+
+**height & width**
+width="300" height="300"
+
+**marquee tag logo slider**
+<marquee>
+<img src="">
+</marquee>
+
+**iframe**
+1. external website iframe:- kisi dusre ki website ko apne webpage pe show karna
+2. internal website iframe:- system ki files ko webpage pe batana ya show karna
+3. target iframe:- it is clickable iframe. link pe click karne pe webpage show hona.
+4. media iframe:- youtube video iframe, google map iframe.
+
+**HTML ENTITIES**
+html entities refer to special charectors that can be problamatic to write directly in HTML, so they  are writtem as code so that browser can display them correctly.
+
+**reserved charectors entity (HTML SYMBOLS)
+**space entities (space/distance ke liye)
+**mathematical entity 
+**greek letters (currency symbols)
+**misscellaneous/ other symbols entity.

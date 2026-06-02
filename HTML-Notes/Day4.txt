@@ -1,0 +1,15 @@
+block elements:- block elements always start with new line and its default width is 100% by default.
+e.g. <div> <section> <article> <p> <h1> to <h6> <ul> <ol> <li> <header> <footer> 
+
+inline elements:- inline elements always run in single line. and its width depend on elements you are adding inside inline elements.
+e.g. <span> <strong> <a> <label> <em> <img> <b> <i> <u>
+
+**comments in html**
+comments are non-executable lines of code. comments can be accessed using ctrl and / press together. first press ctrl and then / to add comments. and to remove comments apply same procedure. comments also used to mark the code that where to start and where to end.
+
+**span tag**
+span tag is a custom tag, also it is an inline elements that provides no visual change to your elements untill you provide an atttribute to it.
+span---> inline level container
+
+**div tag**
+div---> block level container. div tag is used to create website layouts. and div is always start from new line.

@@ -1,0 +1,38 @@
+***Anchor tag in html***
+anchor tag is used to navigate from one page to another page
+
+**target_blank***
+target_blank is used to open the things in new tab.
+
+note:- do not use space in link. always use - to create and open links.
+
+***image tag and its types***
+JPG - image with bg.
+PNG - image with no background/ transperant background.
+SVG - svg is vector graphics image it can not be flicker or blur at any instance.
+GIF - gif is animated image.
+JPEG - image with bg.
+AVIF - it is old type image can not use further.
+webp - images are easily opened and small in size.
+
+global links:- are the links that are available openly in internet
+local links:- are the links that are available only in your system or pc.
+
+always use copyright free images.
+always check if image has copyright or not.
+
+to use HTML comments use ctrl and / and to reverse it repeat same procedure.
+
+***tables tag***
+table creation parameter
+<tr>  means table row
+<td> means table data
+<th> table heading
+<thead>  table heading
+<tbody> means table body
+border is used to give border to a table
+rules is used to merge all lines in single from
+cellspacing and cellpadding are used to separate cells block and its elements.
+
+**rowspan and colspan***
+are used to merge and empty the table.

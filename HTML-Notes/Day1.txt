@@ -1,0 +1,20 @@
+**there are total 6 types of headings in html**
+h1 is largest heading tag  default font size is 32px.
+h6 is lowest heading tags. default font size is 16px to 18px.
+
+**favicon**
+favicon shows website identity that what type of website we are accessing. 
+to add favicon in your code just type link:favicon and then enter and add image address.
+
+**dummy content in paragraph**
+ <!-- to add dummy content just type lorem and for dummy content length add number from your own choice lorem100 lorem300 -->
+
+ **what are presentational tags**
+ presentational tags are used to beautify, modify or changed and replaced the content in html document or code.
+
+ **what are lists in html**
+ lists can be used to properly arranged a data using bullets, numbers, circles, sqaure to differentiate and identify data easily.
+ there are 3 types of lists in html
+ 1. unordered lists
+ 2. ordered lists
+ 3. description lists
