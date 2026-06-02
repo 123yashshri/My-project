@@ -1,0 +1,96 @@
+**what is container & container-fluid in bootstrap**
+1.container is fixed-width size element in bootstrap. it spaces left and right margin and then appear.
+2. container-fluid is full width element in bootstrap. 
+
+**uses of container and container-fluid in bootstrap**
+use of "container" is using screen size need to be adjustable every time.
+use of "container-fluid" takes 100% screen width. it is used in header, footer, slider.
+**for creation of normal page layout we will use container.**
+
+**bootstrap buttons**
+in bootstrap primary button color is blue
+class:- btn btn-primary
+in bootstrap secondary button color is grey
+class:- btn btn-grey
+in bootstrap success button color is green
+class:- btn btn-success
+in bootstrap danger button color is red
+class:- btn btn-danger
+in bootstrap warning button color is yellow
+class:- btn btn-warning
+in bootstrap info button color is aqua
+class:- btn btn-info
+in bootstrap light button color is white
+class:- btn btn-light
+in bootstrap dark button color is black
+class:- btn btn-dark
+
+**bootstrap text coloring classes**
+text-primary
+text-secondary
+text-success
+text-danger
+text-warning
+text-info
+text-light
+text-dark   // it is default
+
+**bootstrap text background classes**
+bg-primary
+bg-secondary
+bg-success
+bg-danger
+bg-warning
+bg-info
+bg-light
+bg-dark   // it is default
+
+**bootstrap text alignment classes**
+text-center // text center me chala jayega
+text-end  // text end me chala jayega
+text-left // text left me chala jayega
+
+**bootstrap text transform classes**
+text-uppercase // pure letter capital
+text-lowercase // pure letter small
+text-capitalize // har word ka first letter capital
+
+**to make paragraph text bigger use lead class and if you want a smaller paragraph use class small**
+
+**bootstrap forms**
+use form-control class to add box-shadow effect in inputs.
+
+**bootstrap margin-padding classes**
+m -> margin
+p -> padding
+
+sides
+t -> top
+b -> bottom
+l -> left
+r -> right
+
+Note:- bootstrap me aap margin aur padding sirf 0 se 5 tak hi laga sakte ho.
+1 -> 0.25 rem
+2 -> 0.5 rem
+3 -> 1 rem
+4 -> 1.5 rem
+5 -> 3 rem
+
+**bootstrap margin classes**
+marign by angle
+mt-5
+ml-5
+mr-5
+mb-5
+complete margin
+m-1, m-2, m-3, m-4, m-5
+
+**bootstrap padding classes**
+padding by angle
+pt-5
+pl-5
+pr-5
+pb-5
+complete padding
+p-1, p-2, p-3, p-4, p-5

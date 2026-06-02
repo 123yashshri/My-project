@@ -1,0 +1,78 @@
+**bootstrap utilities**
+background properties 
+gradient class name
+class:- .bg-gradient
+By adding a .bg-gradient class, a linear gradient is added as background image to the backgrounds.
+
+bg-primary-subtle this subtle class convert normal color into less opacity of 0.1.
+
+**display flex utilities**
+class:- d-flex
+for reverse row and column
+flex-column-reverse
+flex-row-reverse
+
+**bootstrap float properties**
+float class
+float-start
+float-end
+float-none
+
+**float properties responsive classes
+Here are all the support classes:
+
+.float-start
+.float-end
+.float-none
+.float-sm-start
+.float-sm-end
+.float-sm-none
+.float-md-start
+.float-md-end
+.float-md-none
+.float-lg-start
+.float-lg-end
+.float-lg-none
+.float-xl-start
+.float-xl-end
+.float-xl-none
+.float-xxl-start
+.float-xxl-end
+.float-xxl-none
+
+**link utilities**
+underline classes color can be changed.
+link-underline-primary
+link-underline-secondary
+link-underline-success
+link-underline-danger
+link-underline-warning
+link-underline-info
+link-underline-light
+link-underline-dark
+
+link by default shows underline.
+
+**overflow utilities**
+classes are
+class="overflow-auto"
+class="overflow-hidden"
+class="overflow-visible"
+class="overflow-scroll"
+
+**position utilities**
+always add style to a position <div>, not to container.
+
+Apply .visible or .invisible as needed for visibility utilities in bootstrap.
+
+**z-index utilities in bootstrap**
+
+in bootstrap we can apply z-index upto start from z-n1 and end to z-3..
+very low means z-n1
+very high value is z-3
+
+**bootstrap components**
+alert provide information about error.
+breadcrumb provides inner pages information that what page we are viewing or we are on.
+
+we can use bootstrap card components to create blog section, testimonials sections, pricing cards, service information.

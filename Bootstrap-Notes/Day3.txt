@@ -1,0 +1,33 @@
+**bootstrap grid layout system**
+bootstrap grid layout is a layout that can be used to make things responsive.
+bootstrap grid layout is in 12 parts. ye poori screen ko 12 equal hisso me divide karta hai.
+
+**HOW TO DIVIDE GRID LAYOUT**
+col - use for column or to make things responsive in mobile.
+md - to make things responsive in tablet we will use md.
+lg - to make things responsive in desktop or larger screen we will use lg.
+
+e.g agar aapke paas 12 column
+agar 1 equal hisse me divide karna hai to 
+col-12  // desktop me ek hi row dikhegi
+
+agar 2 equal hisse me divide karna hai to 12/2 = 6
+col-6  // desktop me 2 row dikhegi
+
+agar 3 equal hisse me divide karna hai to 12/3 = 4
+col-4  // desktop me 3 row dikhegi
+
+agar 4 equal hisse me divide karna hai to 12/4 = 3
+col-3  // desktop me 4 row dikhegi
+
+**order class in bootstrap**
+bootstrap order allows you to shift order of elements from one place to another.
+to change the order of element we will use class order-element number e.g order-2
+
+note:- order div me sabhi ko dena hai. agar kisi ek ko bhi order allocated nahi kiya to property work nahi karegi.
+
+**nested grid**
+"div ke andar div" banana usko bolege nested grid.
+
+**bootstrap component introduction**
+to create website using bootstrap then we will require navbar, sliders, cards, maps, footer then that things can be created one by one, but in bootstrap there are pre-made component of from navbar to footer(not included in latest bootstrap).

@@ -1,0 +1,91 @@
+1. HOME PAGE (index.html)
+
+Components Required
+
+1. Sticky Navbar (Dropdown included)
+2. Hero Section (Big heading + CTA button)
+3. Services Preview (3–6 Cards)
+4. About Preview Section (Image + Short Text)
+5. Why Choose Us (Icons / 3 Columns)
+6. Testimonials (Optional but impressive)
+7. Call To Action Section
+8. Footer
+
+Optional
+
+9. Carousel / Slider
+10. Counter Section (Happy Clients, Projects)
+11. Clients Logo Section
+
+2️. ABOUT PAGE (about.html)
+
+Components Required
+
+1. Page Banner (Page title section)
+2. Company Introduction (Image + Text layout)
+3. Mission & Vision Section
+4. Our Team (Cards with image + social icons)
+5. Skills Section (Progress bars)
+6. CTA Section
+7. Footer
+
+3️. SERVICES PAGE (services.html)
+
+Components Required
+
+1. Page Header
+2. Services Grid (6 cards)
+3. Each Card me “Read More” button
+4. Icons in each service
+5. FAQ Section (Accordion)
+6. CTA Section
+7. Footer
+
+SERVICES DROPDOWN (Navbar me)
+
+Navbar Dropdown Structure
+
+1. Web Development → `service-web.html`
+2. App Development → `service-app.html`
+3. Digital Marketing → `service-digital.html`
+4. Cloud Services → `service-cloud.html`
+
+
+4️. SERVICE DETAIL PAGE (Example: service-web.html)
+
+Components Required
+
+1. Page Banner
+2. Service Image + Description (2 column layout)
+3. Features List (List Group / Icons)
+4. Process Section (Step 1–2–3–4)
+5. Why Choose This Service
+6. Pricing Table (Optional but good)
+7. Contact CTA
+8. Footer
+
+5️. GALLERY / PORTFOLIO PAGE (portfolio.html)
+
+Components Required
+
+1. Page Banner
+2. Portfolio Grid (3 column layout)
+3. Image Hover Effect
+4. Modal Popup (On image click)
+5. Filter Buttons (Optional advanced)
+6. CTA Section
+7. Footer
+
+6️. CONTACT PAGE (contact.html)
+
+Components Required
+
+1. Page Header
+2. Contact Form
+3. Form Validation
+4. Google Map iframe
+5. Contact Info Cards (Phone / Email / Address)
+6. Social Media Icons
+7. Footer
+
+to create sticky navbar using bootstrap use class sticky-top.jaha navbar start hota hai waha aapko sticky top lagana hai

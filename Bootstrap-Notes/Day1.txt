@@ -1,0 +1,42 @@
+**bootstrap tutorial day 1**
+bootstrap ek front-end framework hai jo html, css, aur js par based hota hai. jisse hum responsive, mobile friendly aur professional UI fast bana sakte hain.
+
+**advantages of bootstrap**
+1. fast development.
+2. responsive design (mobile friendly)
+3. cross browser support (chrome, edge, safari)
+4. easy to learn.
+5. large community & documentation.
+
+**disadvantages of bootstrap**
+1. website similer lagti hai.
+2. extra code/heavy files
+3. customization so tricky
+4. class name zyada hote hai.
+
+**bootstrap installation process**
+
+there are 2 type to add bootstrap in your webpage
+1. Online by CDN Links
+advantages:- it saves time and folder size. it is load faster that offline bootstrap.
+disadvantages:- when site or server is down the website crash or layout broken.
+
+2. Offline by zip file downloaded in your local system.
+advantages:- it provide security against server loss or when internet is low or down.
+disadvantages:- it make folder size heavier that impact on website loading time.
+there are 2 importent file to be added in css and js folder.
+1. bootstrap-min.css to be added in css folder
+2. bootstrap-bundle-min.js to be added in js folder
+
+**bootstrap icons installation process**
+
+there are 2 type to add bootstrap in your webpage
+1. Online by CDN Links
+advantages:- it saves time and folder size. it is load faster that offline bootstrap.
+disadvantages:- when site or server is down the website crash or layout broken.
+
+2. Offline by zip file downloaded in your local system.
+advantages:- it provide security against server loss or when internet is low or down.
+disadvantages:- it make folder size heavier that impact on website loading time.
+
+note:- download icons zip file from bootstrap icon website and extract it. and copy font folder and icons as it is and paste in your icons folder. and link bootstrap-icons.css in <head> section.
